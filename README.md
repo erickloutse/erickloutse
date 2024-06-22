@@ -1,5 +1,6 @@
-👋 Hi there, I'm K. Eric Kloutse! 
+ Hi there, 
 
+    👋 I'm @erickloutse !
     👀 I’m interested in web development, particularly using the MERN (MongoDB, Express.js, React.js, Node.js) stack.
     🌱 I’m currently learning advanced React.js concepts and exploring best practices in MERN stack development.
     💞️ I’m looking to collaborate on MERN stack projects to build robust and scalable web applications.
